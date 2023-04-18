@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    
+    background-color: black;
+    background-image: url(https://i.pinimg.com/564x/88/96/3b/88963b8c3fa7d9e3eacc2e00f527f3df.jpg);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 1000px;
+    width: 100%;
+    padding-top: 10px;
+}
+
+#frase {
+    color: red;
+    font-size: 50px;
+    border: 10px solid black;
+}
